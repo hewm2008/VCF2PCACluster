@@ -1,0 +1,14 @@
+Start Time :
+Wed Apr 19 15:15:19 HKT 2023
+#warning skip Indel site, there are total skip Indel sites number is : 44030
+#Warning skip non bi-allelic(Singleton/ThreeMulti allelic) site, and total skip allelic sites number is :7838
+#Warning skip low Minor Allele Frequency site, and total skip allelic sites number is :692510
+#After Filtering, total Number of 359169 SNPs were taken for the PCA calculation 
+Start To Create Normalized_IBS/Yang/BaldingNicolsKinship ...
+Eigenvalues of 2504 individuals have been saved in [ OUT.eigenval ].
+	 EM init K by auto of K-mean, Best cluster K = 4
+EM Clustering Max its reached: Eps= 0
+The first 10 eigenvectors of 2504 individuals have been saved in [ OUT.eigenvec ].
+	ALL done
+End Time :
+Wed Apr 19 15:27:29 HKT 2023
